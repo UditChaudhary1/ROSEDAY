@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Rose Day</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ffdee9, #b5fffc);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+    }
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    }
+    h1 {
+      color: #e91e63;
+    }
+    p {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+    img {
+      width: 280px;
+      border-radius: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🌹 Happy Rose Day my darling ❤️🌹</h1>
+    
+    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Rose Day GIF">
+    <p>You are my forever rose 🌹</p>
+    <p>I love you Antra Bhanot 🫰</p>
+  </div>
+</body>
+</html>
